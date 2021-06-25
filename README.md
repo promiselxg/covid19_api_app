@@ -1,6 +1,6 @@
 # COVID 19 TRACKER APPLICATION
 
-Live Link : [Covid-19 Tracker](https://reverent-swirles-65add7.netlify.app/)
+Live Link : [Covid-19 Tracker](https://covid-19-clone.netlify.app/)
 
 **_A Simple React application that shows the number of covid-19 cases, deaths and recovered numbers and can also be sorted based on a specific country._**
 
